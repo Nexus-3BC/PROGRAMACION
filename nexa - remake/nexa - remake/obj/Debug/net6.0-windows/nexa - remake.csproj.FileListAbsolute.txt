@@ -1,0 +1,60 @@
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\nexa - remake.exe
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\nexa - remake.deps.json
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\nexa - remake.runtimeconfig.json
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\nexa - remake.dll
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\nexa - remake.pdb
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa___remake.Form1.resources
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa___remake.Properties.Resources.resources
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.csproj.GenerateResource.cache
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.AssemblyInfoInputs.cache
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.AssemblyInfo.cs
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.csproj.CoreCompileInputs.cache
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.dll
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\refint\nexa - remake.dll
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.pdb
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.genruntimeconfig.cache
+C:\Users\hacke\source\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\ref\nexa - remake.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\nexa - remake.exe
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\nexa - remake.deps.json
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\nexa - remake.runtimeconfig.json
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\nexa - remake.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\nexa - remake.pdb
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\Google.Protobuf.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\MySql.Data.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\System.Text.Json.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\ZstdSharp.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.csproj.AssemblyReference.cache
+F:\proyecto\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa___remake.Form1.resources
+F:\proyecto\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa___remake.Properties.Resources.resources
+F:\proyecto\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.csproj.GenerateResource.cache
+F:\proyecto\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.GeneratedMSBuildEditorConfig.editorconfig
+F:\proyecto\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.AssemblyInfoInputs.cache
+F:\proyecto\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.AssemblyInfo.cs
+F:\proyecto\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.csproj.CoreCompileInputs.cache
+F:\proyecto\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - r.07530427.Up2Date
+F:\proyecto\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\refint\nexa - remake.dll
+F:\proyecto\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.pdb
+F:\proyecto\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\nexa - remake.genruntimeconfig.cache
+F:\proyecto\repos\nexa - remake\nexa - remake\obj\Debug\net6.0-windows\ref\nexa - remake.dll
